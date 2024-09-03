@@ -1,1 +1,1 @@
-This is a repository with all the covariance data for the project [MCFR](https://github.com/jvalentin2001/Sens_MCFR.git). Also included is a python file used to run SANDY/NJOY and generate these covariance files into the format above. 
+This is a repository includes all the covariance data necessary for the project [MCFR](https://github.com/jvalentin2001/Sens_MCFR.git). Also included is a python file used to run SANDY/NJOY and generate these covariance files into the format above. 
